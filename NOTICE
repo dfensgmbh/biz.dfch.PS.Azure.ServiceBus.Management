@@ -1,6 +1,6 @@
 
 d-fens biz.dfch.PS.Azure.ServiceBus.Management
-PowerShell management scripts for the Azure Service Bus 1.1
+PowerShell management Cmdlets to perform various base actions and utility/convenience functions with Azure Service Bus 1.1.
 Copyright 2015 d-fens GmbH
 
 This product includes software developed at
