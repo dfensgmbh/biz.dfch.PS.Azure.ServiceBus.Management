@@ -9,7 +9,7 @@ d-fens GmbH, General-Guisan-Strasse 6, CH-6300 Zug, Switzerland
 
 ## Download
 
-* Get it on [NuGet](https://www.nuget.org/packages/biz.dfch.PS.Appclusive.Setup/)
+* Get it on [NuGet](https://www.nuget.org/packages/biz.dfch.PS.Azure.ServiceBus.Management/)
 
 * See [Releases](https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management/releases) and [Tags](https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management/tags) on [GitHub](https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management)
 
