@@ -7,7 +7,7 @@
     <DCT>
       <En>
         <S N="Key">DefaultNameSpace</S>
-        <S N="Value">DefaultServiceBusNamespace</S>
+        <S N="Value">ServiceBusDefaultNamespace</S>
       </En>
       <En>
         <S N="Key">Credential</S>

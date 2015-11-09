@@ -15,12 +15,13 @@
 Param(
     [Parameter(Mandatory = $true)]
 	[ValidateNotNullorEmpty()]
+	[alias("queue")]
     [String]$Path,                                           # required    needs to be alphanumeric    
     [Parameter(Mandatory = $false)]
 	[ValidateNotNullorEmpty()]
     [ValidatePattern("^[a-z0-9]*$")]
 	[alias("NamespaceName")]
-    [String]$Namespace = $biz_dfch_PS_Azure_ServiceBus_Setup.DefaultNameSpace
+    [String]$Namespace = (Get-Variable -Name $MyInvocation.MyCommand.Module.PrivateData.MODULEVAR -ValueOnly).DefaultNameSpace
     )
 	
 BEGIN 

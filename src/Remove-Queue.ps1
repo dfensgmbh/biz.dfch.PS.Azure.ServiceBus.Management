@@ -20,11 +20,12 @@
 [CmdletBinding(PositionalBinding=$True)]
 Param(
     [Parameter(Mandatory = $true)]
+	[alias("queue")]
     [String]$Path,              # required
     [switch]$Force = $false, 	# optional
     [ValidatePattern("^[a-z0-9]*$")]
 	[alias("NamespaceName")]
-    [String]$Namespace = $biz_dfch_PS_Azure_ServiceBus_Setup.DefaultNameSpace
+    [String]$Namespace = (Get-Variable -Name $MyInvocation.MyCommand.Module.PrivateData.MODULEVAR -ValueOnly).DefaultNameSpace
     )
 	
 BEGIN 
