@@ -22,7 +22,7 @@ PS > .\Install.ps1 -ModulePath C:\PSModules
 PARAM
 ( 
 	# Specifies the module name. Leave as is.
-	[string] $ModuleName = 'biz.dfch.PS.Azure.ServiceBus.Setup'
+	[string] $ModuleName = 'biz.dfch.PS.Azure.ServiceBus.Management'
 	,
 	# Specifies the target base directory into which to install the module.
     [string] $ModulePath = (Join-Path $env:ProgramFiles WindowsPowerShell\Modules)
