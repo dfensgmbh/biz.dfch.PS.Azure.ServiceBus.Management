@@ -1,5 +1,7 @@
 # biz.dfch.PS.Azure.ServiceBus.Management
 [![License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management/blob/master/LICENSE)
+![NuGet downloads](https://img.shields.io/nuget/dt/biz.dfch.PS.Azure.ServiceBus.Management.svg)
+![Version](https://img.shields.io/nuget/v/biz.dfch.PS.Azure.ServiceBus.Management.svg)
 
 PowerShell management scripts for the Azure Service Bus 1.1
 
