@@ -3,7 +3,7 @@
 ![NuGet downloads](https://img.shields.io/nuget/dt/biz.dfch.PS.Azure.ServiceBus.Management.svg)
 ![Version](https://img.shields.io/nuget/v/biz.dfch.PS.Azure.ServiceBus.Management.svg)
 
-PowerShell management scripts for the Azure Service Bus 1.1
+PowerShell management Cmdlets to perform various base actions and utility/convenience functions with Azure Service Bus 1.1.
 
 Assembly: biz.dfch.PS.Azure.ServiceBus.Management
 
@@ -11,7 +11,7 @@ d-fens GmbH, General-Guisan-Strasse 6, CH-6300 Zug, Switzerland
 
 ## Download
 
-* Get it on [NuGet](https://www.nuget.org/packages/biz.dfch.PS.Appclusive.Setup/)
+* Get it on [NuGet](https://www.nuget.org/packages/biz.dfch.PS.Azure.ServiceBus.Management/)
 
 * See [Releases](https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management/releases) and [Tags](https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management/tags) on [GitHub](https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management)
 
