@@ -31,7 +31,7 @@ See https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management/wiki fo
     <language>en-US</language>
     <tags>dfch PowerShell Azure Service Bus Management</tags>
     <dependencies>
-      <dependency id="biz.dfch.PS.System.Logging" version="1.0.5" />
+      <dependency id="biz.dfch.PS.System.Logging" version="1.0.6" />
       <dependency id="biz.dfch.PS.System.Utilities" version="1.0.9" />
     </dependencies>
   </metadata>
