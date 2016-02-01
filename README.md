@@ -1,7 +1,7 @@
 # biz.dfch.PS.Azure.ServiceBus.Management
 [![License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management/blob/master/LICENSE)
-![NuGet downloads](https://img.shields.io/nuget/dt/biz.dfch.PS.Azure.ServiceBus.Management.svg)
-![Version](https://img.shields.io/nuget/v/biz.dfch.PS.Azure.ServiceBus.Management.svg)
+[![NuGet downloads](https://img.shields.io/nuget/dt/biz.dfch.PS.Azure.ServiceBus.Management.svg)](https://www.nuget.org/packages/biz.dfch.PS.Azure.ServiceBus.Management/)
+[![Version](https://img.shields.io/nuget/v/biz.dfch.PS.Azure.ServiceBus.Management.svg)](https://www.nuget.org/packages/biz.dfch.PS.Azure.ServiceBus.Management/)
 
 PowerShell management Cmdlets to perform various base actions and utility/convenience functions with Azure Service Bus 1.1.
 
