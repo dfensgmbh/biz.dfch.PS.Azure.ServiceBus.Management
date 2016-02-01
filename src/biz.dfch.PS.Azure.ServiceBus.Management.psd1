@@ -8,7 +8,7 @@
 RootModule = 'biz.dfch.PS.Azure.ServiceBus.Management.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0.20151203'
+ModuleVersion = '1.0.1.20160201'
 
 # ID used to uniquely identify this module
 GUID = 'e850063d-7b33-45b9-aa85-b9bd381a6c5a'
