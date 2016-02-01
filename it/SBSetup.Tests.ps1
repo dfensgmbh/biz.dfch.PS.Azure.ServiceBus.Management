@@ -14,7 +14,7 @@ Describe -Tags "SBSetup.Tests" "SBSetup.Tests" {
 
 	Mock Export-ModuleMember { return $null; }
 	
-	Context "SBQueue.Tests" {
+	Context "#CLOUDTCL-1904-CMS Service Bus Management - SBQueue" {
 		
 		BeforeEach {
 			$moduleName = 'biz.dfch.PS.Azure.ServiceBus.Management';
@@ -114,11 +114,13 @@ Describe -Tags "SBSetup.Tests" "SBSetup.Tests" {
 			# Act
 			
 			#Assert
-			
+			"There " | Should Be "an error. Not yet implemented!"
+			# TODO: Implement this test or remove it. Remove it also from the description in Jira.
+			# Also update descriptions in Gira!!! 
 		}
 	}
 	
-	Context "SBTopic.Tests" {
+	Context "#CLOUDTCL-1905-CMS Service Bus Management - SBTopic" {
 		It "SBTopic-CreateGetDetailsAndDeleteTopic" {
 			try {
 				# Arrange
@@ -180,8 +182,11 @@ Describe -Tags "SBSetup.Tests" "SBSetup.Tests" {
 		}
 	}
 	
-	Context "SBSubscription.Tests" {
+	Context "#CLOUDTCL-1906-CMS Service Bus Management - SBSubscription" {
 		It "SBTopic-CreateGetDetailsAndDeleteSubscription" {
+		"There " | Should Be "an error. Not yet implemented!"
+			# TODO: Implement this test or remove it. Remove it also from Jira.
+			# Update descriptions in Gira if implemented!!! 
 		}
 	}
 }
