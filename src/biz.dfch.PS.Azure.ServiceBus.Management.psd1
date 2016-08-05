@@ -135,6 +135,29 @@ FileList = @(
 
 # Private data to pass to the module specified in RootModule/ModuleToProcess
 PrivateData = @{
+
+	PSData = @{
+
+        # Tags applied to this module. These help with module discovery in online galleries.
+        Tags = @("dfch", "PowerShell", "Azure", "Service", "Bus", "Management")
+		
+        # A URL to the license for this module.
+        LicenseUri = 'https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management/blob/master/LICENSE'
+		
+        # A URL to the main website for this project.
+        ProjectUri = 'https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management'
+		
+        # A URL to an icon representing this module.
+        IconUri = 'https://raw.githubusercontent.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management/master/logo-32x32.png'
+		
+        # ReleaseNotes of this module
+        ReleaseNotes = '20160201
+* biz.dfch.PS.System.Logging version bumped to version for next release 1.0.6
+* Fixed exception handler
+* Destination base path is "$env:ProgramFiles\WindowsPowerShell\Modules" and can be manually set as input parameter'
+
+    } 
+
 	"MODULEVAR" = "biz_dfch_PS_Azure_ServiceBus_Management"
 }
 
