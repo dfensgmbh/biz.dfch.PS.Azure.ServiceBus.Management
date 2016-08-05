@@ -154,7 +154,7 @@ PrivateData = @{
         ReleaseNotes = '20160201
 * biz.dfch.PS.System.Logging version bumped to version for next release 1.0.6
 * Fixed exception handler
-* Destination base path is '$env:ProgramFiles\WindowsPowerShell\Modules' and can be manually set as input parameter'
+* Destination base path is "$env:ProgramFiles\WindowsPowerShell\Modules" and can be manually set as input parameter'
 
     } 
 
