@@ -48,8 +48,6 @@ RequiredModules = @(
 	'biz.dfch.PS.System.Logging'
 	,
 	'biz.dfch.PS.System.Utilities'
-	,
-	'ServiceBus'
 )
 
 # Assemblies that must be loaded prior to importing this module
