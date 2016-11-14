@@ -137,7 +137,7 @@ PrivateData = @{
 	PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        Tags = @("dfch", "PowerShell", "Azure", "Service", "Bus", "Management")
+        Tags = 'dfch', 'PowerShell', 'Azure', 'Service', 'Bus', 'Management'
 		
         # A URL to the license for this module.
         LicenseUri = 'https://github.com/dfensgmbh/biz.dfch.PS.Azure.ServiceBus.Management/blob/master/LICENSE'
